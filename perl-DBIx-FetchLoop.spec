@@ -7,7 +7,7 @@ Name:		perl-DBIx-FetchLoop
 Version:	0.6
 Release:	1
 Epoch:		1
-License:	?
+License:	unknown
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	8d09c861458cd34febbac3b3ebb1dbd3

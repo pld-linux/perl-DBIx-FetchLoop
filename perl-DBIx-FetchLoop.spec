@@ -35,7 +35,7 @@ bazuj±cego na polach w wynikowym zbiorze danych.
 %setup -q -n %{pdir}-%{pnam}-%{version}
 
 %build
-perl Makefile.PL
+%{__perl} Makefile.PL
 %{__make}
 
 %install

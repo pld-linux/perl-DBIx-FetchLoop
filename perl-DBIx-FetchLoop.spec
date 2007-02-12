@@ -2,7 +2,7 @@
 %define		pdir	DBIx
 %define		pnam	FetchLoop
 Summary:	DBIx::FetchLoop - fetch with change detection and aggregates
-Summary(pl):	DBIx::FetchLoop - odczyt danych z wykrywaniem zmian i gromadzeniem
+Summary(pl.UTF-8):   DBIx::FetchLoop - odczyt danych z wykrywaniem zmian i gromadzeniem
 Name:		perl-DBIx-FetchLoop
 Version:	0.6
 Release:	1
@@ -24,14 +24,14 @@ field between previous and current or current and next rows.
 Additional functions allow you automatically create new fields for
 aggregating or concatenating based on fields in the resulting dataset.
 
-%description -l pl
-Modu³ DBIx::FetchLoop to dodatkowe u³atwienie do odczytywania danych z
-u¿yciem DBI. Wiersze wyniku s± kolejkowane z referencjami do
-poprzedniego, bie¿±cego i nastêpnego wiersza. Funkcje narzêdziowe
-pozwalaj± na uproszczone porównywanie pól pomiêdzy poprzednim a
-bie¿±cym lub bie¿±cym a nastêpnym wierszem. Dodatkowe funkcje
-pozwalaj± automatycznie tworzyæ nowe pola do gromadzenia lub ³±czenia
-bazuj±cego na polach w wynikowym zbiorze danych.
+%description -l pl.UTF-8
+ModuÅ‚ DBIx::FetchLoop to dodatkowe uÅ‚atwienie do odczytywania danych z
+uÅ¼yciem DBI. Wiersze wyniku sÄ… kolejkowane z referencjami do
+poprzedniego, bieÅ¼Ä…cego i nastÄ™pnego wiersza. Funkcje narzÄ™dziowe
+pozwalajÄ… na uproszczone porÃ³wnywanie pÃ³l pomiÄ™dzy poprzednim a
+bieÅ¼Ä…cym lub bieÅ¼Ä…cym a nastÄ™pnym wierszem. Dodatkowe funkcje
+pozwalajÄ… automatycznie tworzyÄ‡ nowe pola do gromadzenia lub Å‚Ä…czenia
+bazujÄ…cego na polach w wynikowym zbiorze danych.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}

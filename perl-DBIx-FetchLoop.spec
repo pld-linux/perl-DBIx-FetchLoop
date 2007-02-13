@@ -2,7 +2,7 @@
 %define		pdir	DBIx
 %define		pnam	FetchLoop
 Summary:	DBIx::FetchLoop - fetch with change detection and aggregates
-Summary(pl.UTF-8):   DBIx::FetchLoop - odczyt danych z wykrywaniem zmian i gromadzeniem
+Summary(pl.UTF-8):	DBIx::FetchLoop - odczyt danych z wykrywaniem zmian i gromadzeniem
 Name:		perl-DBIx-FetchLoop
 Version:	0.6
 Release:	1

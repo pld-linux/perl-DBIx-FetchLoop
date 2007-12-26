@@ -4,13 +4,14 @@
 Summary:	DBIx::FetchLoop - fetch with change detection and aggregates
 Summary(pl.UTF-8):	DBIx::FetchLoop - odczyt danych z wykrywaniem zmian i gromadzeniem
 Name:		perl-DBIx-FetchLoop
-Version:	0.6
+Version:	0.41
 Release:	1
 Epoch:		1
 License:	unknown
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	8d09c861458cd34febbac3b3ebb1dbd3
+Source0:	http://www.cpan.org/modules/by-module/DBIx/%{pdir}-%{pnam}-%{version}.tar.gz
+# Source0-md5:	d6cc386101c2786209c8783814d2d3ca
+URL:		http://search.cpan.org/dist/DBIx-FetchLoop/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch

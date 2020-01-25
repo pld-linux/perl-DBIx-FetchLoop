@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 %define		pdir	DBIx
 %define		pnam	FetchLoop
 Summary:	DBIx::FetchLoop - fetch with change detection and aggregates

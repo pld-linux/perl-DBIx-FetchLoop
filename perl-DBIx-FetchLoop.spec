@@ -4,7 +4,7 @@ Summary:	DBIx::FetchLoop - fetch with change detection and aggregates
 Summary(pl.UTF-8):	DBIx::FetchLoop - odczyt danych z wykrywaniem zmian i gromadzeniem
 Name:		perl-DBIx-FetchLoop
 Version:	0.41
-Release:	1
+Release:	2
 Epoch:		1
 License:	unknown
 Group:		Development/Languages/Perl
